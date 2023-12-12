@@ -14,7 +14,7 @@ let open = document.querySelector(".open");
 let close = document.querySelector(".close");
 let menu = document.querySelector(".menu");
 let nav = document.querySelector("nav");
-
+open.style.display = "block";
 menu.addEventListener("click", () => {
 	if (open.style.display === "block") {
 		open.style.display = "none";
