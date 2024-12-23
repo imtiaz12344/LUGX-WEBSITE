@@ -1,9 +1,9 @@
 # 🎮 Lugx - Gaming Website Clone
 
 ## 📝 Description
-**Lugx** is a frontend project created as a clone of a random gaming website template. This project showcases the design and features of a modern gaming website, including sections for games, news, and community discussions. The website is intended to provide information and entertainment to gaming enthusiasts.
+**Lugx** is a frontend project that I created based on a design I found online. For my learning experience, I recreated it from scratch using **HTML**, **CSS**, and **JavaScript**. The project showcases the design and features of a modern gaming website, including sections for games, news, and community discussions. The website aims to provide information and entertainment to gaming enthusiasts.
 
-Developed for learning purposes, **Lugx** uses **HTML**, **CSS**, and **JavaScript** to create a visually appealing, responsive, and interactive gaming website. It mimics the look and feel of popular gaming websites, incorporating game-related content and smooth user interactions.
+Developed for learning purposes, **Lugx** is fully responsive, interactive, and visually appealing. It mimics the look and feel of popular gaming websites and incorporates game-related content, smooth user interactions, and dynamic features.
 
 ---
 
@@ -45,7 +45,7 @@ Developed for learning purposes, **Lugx** uses **HTML**, **CSS**, and **JavaScri
 ---
 
 ## 🙌 Acknowledgements
-This project was developed as part of a learning exercise and is based on a Bootstrap template that I customized into HTML, CSS, and JavaScript from scratch. The content and design are not original, and the project was recreated for educational purposes. GSAP was used to implement smooth scrolling and animations to enhance the user experience.
+This project was developed as part of a learning exercise and is based on a design I found online. I then recreated the template into HTML, CSS, and JavaScript from scratch. The content and design are not original, and the project was replicated for educational purposes. No design is original to the source, and the intention was purely to improve my web development skills.
 
 ---
 
