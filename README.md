@@ -45,7 +45,7 @@ Developed for learning purposes, **Lugx** uses **HTML**, **CSS**, and **JavaScri
 ---
 
 ## 🙌 Acknowledgements
-This project was developed as part of a learning exercise and is a clone of an existing gaming website template. All content and design were inspired by the original site.
+This project was developed as part of a learning exercise and is based on a Bootstrap template that I customized into HTML, CSS, and JavaScript from scratch. The content and design are not original, and the project was recreated for educational purposes. GSAP was used to implement smooth scrolling and animations to enhance the user experience.
 
 ---
 
